@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm  Ananya B R👋
 
-<!--
-**Ananyabr11/Ananyabr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering (ECE) Student
 
-Here are some ideas to get you started:
+👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Embedded Systems, IoT, AI, and Digital Communication.
+- 💡 Passionate about building real-world hardware and software solutions.
+- 🎯 Looking for internship opportunities to gain practical industry experience.
+
+🛠️ Skills
+
+- C
+- Python
+- Arduino
+- ESP32
+- Raspberry Pi
+- Git & GitHub
+
+🚀 Projects
+
+- Improving Far - Edge IoT Device Management System
+- AI Integrated Autonomous Ground Vehicle
+
+🏆 Achievements
+
+- Make for Tumakuru Hackathon (Top 15 Finalist)
+
+📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/ananya-b-r-542993317
